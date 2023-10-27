@@ -50,8 +50,8 @@
                                 "What is this chatbot name?"
                         ],
                         "responses": [
-                                "Hi, I am Chatbot designed by Mayank.",
-                                "Thanks for asking. I am designed by Mayank Bajaj.",
+                                "Hi, I am Chatbot designed by Akash Singh.",
+                                "Thanks for asking. I am designed by Akash Singh.",
                                 "I am a chatbot."
                         ]
                 },
@@ -77,8 +77,8 @@
                                 "Is there any way we can connect"
                         ],
                         "responses": [
-                                "You can connect me on Linkedin or Github \n Linkedin - https://www.linkedin.com/in/mayank-bajaj/ \n Github - https://github.com/mayank8200",
-                                "You can visit https://mayank-bajaj.me"
+                                "You can connect me on Linkedin or Github \n Linkedin - https://www.linkedin.com/in/akash-singh-64593a28a/ \n Github - https://github.com/MrAkash920",
+                                "You can visit https://bit.ly/about-akash"
                         ]
                 },
                 {
@@ -90,10 +90,10 @@
                         ],
                         "responses": [
                                 "3 idiots",
-                                "Hera Pheri",
-                                "Lage Raho Munna Bhai",
-                                "OMG: Oh My God!",
-                                "PK",
+                                "Tare Zammin Par",
+                                "RRR",
+                                "Rockstar",
+                                "Dilbechara",
                                 "Yeh Jawani hai Deewani",
                                 "Zindagi na Milegi Doobara",
                                 "Ludo"
@@ -107,8 +107,8 @@
                                 "What is this?"
                         ],
                         "responses": [
-                                "Hi, I am Mayank. Nice to meet you. I made this chatbot for fun and practice.",
-                                "Thanks for asking. I am Mayank Bajaj, coder by profession but ML enthusiast by passion."
+                                "Hi, I am Akash Singh. Nice to meet you. I made this chatbot for fun and practice.",
+                                "Thanks for asking. I am Akash Singh, Data Analyst and ML developer"
                         ]
                 }
                
